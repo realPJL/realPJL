@@ -2,7 +2,7 @@
 - 👀 I’m interested in business, tech and finance
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on smaller projects
-- 📫 How to reach me: @realPJL
+- 📫 How to reach me: @realPJL on X
 
 <!---
 realPJL/realPJL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
