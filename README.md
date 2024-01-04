@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @realPJL
 - 👀 I’m interested in business, tech and finance
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on smaller projects
+- 🏫 I'm studying business administration and computer science
+- 🌱 I’m currently learning C# and Java
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me: @realPJL on X
 
 <!---
