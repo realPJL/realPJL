@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realPJL
 - 👀 I’m interested in business, tech and finance
 - 🏫 I'm studying business administration and computer science
-- 🌱 I’m currently learning Python, SQL and Apache Derby
+- 🌱 I’m currently learning Next.js, SQL and Apache Derby
 - 💞️ I’m looking to collaborate on some projects
 
 <!---
